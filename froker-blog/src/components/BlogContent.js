@@ -20,6 +20,7 @@ const BlogContent = () => {
           <p>Forbes 30 Under 30 India: Cele...</p>
           <a href="#">Read More...</a>
         </div>
+        
       </div>
     </div>
   );

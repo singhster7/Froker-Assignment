@@ -1,0 +1,46 @@
+.blog-content {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .blog-content h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .blog-grid {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .blog-item {
+    width: 30%;
+    margin: 20px 0;
+    text-align: left;
+  }
+  
+  .blog-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .blog-info {
+    padding: 10px;
+  }
+  
+  .blog-info p {
+    margin: 5px 0;
+  }
+  
+  .blog-info h3 {
+    margin: 10px 0;
+  }
+  
+  .blog-info a {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  
