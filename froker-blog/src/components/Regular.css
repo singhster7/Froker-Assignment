@@ -28,10 +28,13 @@
   
   .blog-info {
     padding: 10px;
+    overflow: hidden;
+    height: 50%;
   }
   
   .blog-info p {
     margin: 5px 0;
+    overflow: hidden;
   }
   
   .blog-info h3 {
@@ -39,8 +42,10 @@
   }
   
   .blog-info a {
-    color: blue;
+    color:orange;
     text-decoration: underline;
     cursor: pointer;
   }
-  
+  .blog-author{
+    color: orange
+  }
